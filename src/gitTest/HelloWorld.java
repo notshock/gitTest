@@ -6,4 +6,8 @@ public class HelloWorld {
 	public String toString() {
 		return this.name;
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
 }
